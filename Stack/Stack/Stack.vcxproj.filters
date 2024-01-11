@@ -21,12 +21,6 @@
     <ClCompile Include="스택을 이용한 괄호 검사.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연결리스트로 구현한 스택.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연결리스트로 구현한 큐.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="일반적인 배열 스택.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
